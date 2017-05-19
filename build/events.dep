@@ -1,0 +1,2 @@
+build/events.o: src/events.cpp src/events.h src/common.h src/sim.h \
+ src/bitcoin.h

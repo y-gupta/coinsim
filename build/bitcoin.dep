@@ -1,0 +1,1 @@
+build/bitcoin.o: src/bitcoin.cpp src/bitcoin.h src/common.h

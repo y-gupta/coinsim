@@ -1,0 +1,2 @@
+build/main.o: src/main.cpp src/sim.h src/bitcoin.h src/common.h \
+ src/events.h
